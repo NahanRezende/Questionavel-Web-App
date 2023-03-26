@@ -31,7 +31,7 @@ export const DashBoard: React.FC = () => {
         ou responda a uma das muitas pesquisas que temos.
       </Description>
       <SecondDescription>
-        Comece a gastar seu tempo de forma inútil agora mesmo.
+        Comece a gastar seu tempo agora mesmo.
       </SecondDescription>
       <ButtonContainer>
         <ButtonDashboard type="button" onClick={handleCreate}>
