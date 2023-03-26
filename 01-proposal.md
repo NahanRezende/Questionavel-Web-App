@@ -1,7 +1,7 @@
 CSI606-2022-02 - Presencial - Proposta de Trabalho Final
 Aluna(o): Nahan Filipe Duarte Rezende
 Resumo
-Este projeto consiste no desenvolvimento de uma aplicação para a criação de pesquisas rapidas com multiplas respostas pré definidas.
+Este projeto consiste no desenvolvimento de uma aplicação para a criação de pesquisas rápidas com múltiplas respostas pre definidas.
 
 1. Tema
 Durante o dia a dia, se faz necessário o uso de formulários para a realização de diversas pesquisas onde as respostas estão previamente definidas, por isso a ideia de se ter uma aplicação web rápida e simples de se utilizar para a criação de uma pesquisa.
