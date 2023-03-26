@@ -16,3 +16,7 @@ O sistema desenvolvido será um mvp que permitirá ao usuário a criação de pe
 
 3. Restrições
 Como o sistema ainda é um mvp não estarão integradas funcionalidades de login ou listagem de pesquisas para um cliente específico.
+
+4. Protótipo
+A versão inicial do prótotipo esta presente no link:
+- https://www.figma.com/file/CR5we1vlGeoFV9axRnPZMu/Untitled?node-id=19%3A104&t=TsusEvNJOwmx0yC6-1
